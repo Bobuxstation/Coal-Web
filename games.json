@@ -3,49 +3,49 @@
         {
             "name":"Memeforest",
             "info":"Enjoy a world full of memes! You are stranded in an island full of memes, your mission is to fight the bad meme boss (the grubhub guy). Game ver: 1.4 release [Under Wo'Oh update]",
-            "banner":"banners/Memeforest.png",
-            "link":"Memeforest/index.html"
+            "banner":"https://bobuxstation.github.io/AB-Coal-Beta/banners/Memeforest.png",
+            "link":"https://bobuxstation.github.io/AB-Coal-Beta/Memeforest/index.html"
         },
         {
             "name":"Sunat Hospital",
             "info":"Try to survive in a haunted sunat hospital. Can you survive to 6 am or will the sussy animatronics kill you. Game ver: 1.0 Release [Full Game Release]",
-            "banner":"banners/sunathospital.jpeg",
+            "banner":"https://bobuxstation.github.io/AB-Coal-Beta/banners/sunathospital.jpeg",
             "link":"https://turbowarp.org/624949249/embed"
         },
         {
             "name":"OtnaHome",
             "info":"An epik home simulator where you can eat apple and work all day. But beware of the debt boss! If you eat too much apple and your money goes under 0 the debt boss will come and you have to fight him! Game ver: 1.5 [The big update]",
-            "banner":"banners/otnahome.png",
+            "banner":"https://bobuxstation.github.io/AB-Coal-Beta/banners/otnahome.png",
             "link":"https://turbowarp.org/624892272/embed"
         },
         {
             "name":"Mouse Eater",
             "info":"Dont get your mouse pointer eaten by the ball! Game ver: 1.0 [release]",
-            "banner":"banners/mouse%20eater.png",
+            "banner":"https://bobuxstation.github.io/AB-Coal-Beta/banners/mouse%20eater.png",
             "link":"https://turbowarp.org/624951488/embed"
         },
         {
             "name":"Otna Friends",
             "info":"A game where you can explore, fight, trade, survive and more with your friends! Game ver: 1.4 [Alpha]",
-            "banner":"banners/otnafriend.png",
+            "banner":"https://bobuxstation.github.io/AB-Coal-Beta/banners/otnafriend.png",
             "link":"https://turbowarp.org/479375786/embed"
         },
         {
             "name":"Arkacraft SJE Edition",
             "info":"Arkacraft Lite Version! Game ver: 1.0 [release]",
-            "banner":"banners/arkacraft.png",
+            "banner":"https://bobuxstation.github.io/AB-Coal-Beta/banners/arkacraft.png",
             "link":"https://turbowarp.org/386958939/embed"
         },
         {
             "name":"Arkacraft Island",
             "info":"Arkacraft Islands Releasing On 12 March 2022! Game ver: 1.0 [release]",
-            "banner":"banners/arkacraft%20island2.png",
+            "banner":"https://bobuxstation.github.io/AB-Coal-Beta/banners/arkacraft%20island2.png",
             "link":"https://turbowarp.org/624892297/embed"
         },
         {
             "name":"Grief Street (BETA)",
             "info":"Open World Game",
-            "banner":"Untitled.png",
+            "banner":"https://bobuxstation.github.io/AB-Coal-Beta/Untitled.png",
             "link":""
         }
             ]
