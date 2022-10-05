@@ -1,0 +1,22 @@
+{
+    "items":[
+        {
+            "name":"Project: Skoopin Takedown",
+            "Version": 1,
+            "developer": "Horang Entertainment",
+            "feed":"https://bobuxstation.github.io/Coal-Web/Memeforest/newscoal.html",
+            "info":"You are someone who decide to dedicate your life into taking down a greedy, copycat company called Skoopins. Join the Horang Group and start your adventure as their elite agent!",
+            "banner":"https://bobuxstation.github.io/Coal-Web/Untitled.png",
+            "link":"https://bobuxstation.github.io/Coal-Web/Memeforest/index.html"
+        },
+        {
+            "name":"Panzer Simulator",
+            "Version": 1,
+            "developer": "Horang Entertainment",
+            "feed":"false",
+            "info":"when rilis???",
+            "banner":"https://bobuxstation.github.io/Coal-Web/Untitled.png",
+            "link":"https://turbowarp.org/624949249/embed"
+        }
+            ]
+}
