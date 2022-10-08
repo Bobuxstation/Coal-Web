@@ -71,6 +71,15 @@
             "info":"Open World Game",
             "banner":"https://bobuxstation.github.io/Coal-Web/Untitled.png",
             "link":""
+        },
+        {
+            "name":"Sunat Hospital: Definitive Edition",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed":"false",
+            "info":"Sunat Hospital, But better!",
+            "banner":"https://bobuxstation.github.io/Coal-Web/banners/suhosde.png",
+            "link":"https://turbowarp.org/742789914/embed"
         }
             ]
 }
