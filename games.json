@@ -7,7 +7,8 @@
             "feed":"https://bobuxstation.github.io/Coal-Web/Memeforest/newscoal.html",
             "info":"Enjoy a world full of memes! You are stranded in an island full of memes, your mission is to fight the bad meme boss (the grubhub guy). Game ver: 1.4 release [Under Wo'Oh update]",
             "banner":"https://bobuxstation.github.io/Coal-Web/banners/Memeforest.png",
-            "link":"https://bobuxstation.github.io/Coal-Web/Memeforest/index.html"
+            "link":"https://bobuxstation.github.io/Coal-Web/Memeforest/index.html",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/unavailibleforcoal.html"
         },
         {
             "name":"Sunat Hospital",
@@ -16,61 +17,8 @@
             "feed":"false",
             "info":"Try to survive in a haunted sunat hospital. Can you survive the 5 days or will the sussy animatronics kill you. Game ver: 1.0 Release [Full Game Release]",
             "banner":"https://bobuxstation.github.io/Coal-Web/banners/sunathospital.jpeg",
-            "link":"https://turbowarp.org/624949249/embed"
-        },
-        {
-            "name":"OtnaHome",
-            "Version": 1,
-            "developer": "ABSTUDIO",
-            "feed":"false",
-            "info":"An epik home simulator where you can eat apple and work all day. But beware of the debt boss! If you eat too much apple and your money goes under 0 the debt boss will come and you have to fight him! Game ver: 1.5 [The big update]",
-            "banner":"https://bobuxstation.github.io/Coal-Web/banners/otnahome.png",
-            "link":"https://turbowarp.org/624892272/embed"
-        },
-        {
-            "name":"Mouse Eater",
-            "Version": 1,
-            "developer": "ABSTUDIO",
-            "feed":"false",
-            "info":"Dont get your mouse pointer eaten by the ball! Game ver: 1.0 [release]",
-            "banner":"https://bobuxstation.github.io/Coal-Web/banners/mouse%20eater.png",
-            "link":"https://turbowarp.org/624951488/embed"
-        },
-        {
-            "name":"Otna Friends",
-            "Version": 1,
-            "developer": "ABSTUDIO",
-            "feed":"false",
-            "info":"A game where you can explore, fight, trade, survive and more with your friends! Game ver: 1.4 [Alpha]",
-            "banner":"https://bobuxstation.github.io/Coal-Web/banners/otnafriend.png",
-            "link":"https://turbowarp.org/479375786/embed"
-        },
-        {
-            "name":"Arkacraft SJE Edition",
-            "Version": 1,
-            "developer": "ABSTUDIO",
-            "feed":"false",
-            "info":"Arkacraft Lite Version! Game ver: 1.0 [release]",
-            "banner":"https://bobuxstation.github.io/Coal-Web/banners/arkacraft.png",
-            "link":"https://turbowarp.org/386958939/embed"
-        },
-        {
-            "name":"Arkacraft Island",
-            "Version": 1,
-            "developer": "ABSTUDIO",
-            "feed":"false",
-            "info":"Arkacraft Islands Releasing On 12 March 2022! Game ver: 1.0 [release]",
-            "banner":"https://bobuxstation.github.io/Coal-Web/banners/arkacraft%20island2.png",
-            "link":"https://turbowarp.org/624892297/embed"
-        },
-        {
-            "name":"Grief Street",
-            "Version": 1,
-            "developer": "ABSTUDIO",
-            "feed":"false",
-            "info":"Open World Game, Coming soon! Game ver: 0.0 [development]",
-            "banner":"https://bobuxstation.github.io/Coal-Web/banners/GriefStreetPoster.png",
-            "link":""
+            "link":"https://turbowarp.org/624949249/embed",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/unavailibleforcoal.html"
         },
         {
             "name":"Sunat Hospital: Definitive Edition",
@@ -79,7 +27,58 @@
             "feed":"false",
             "info":"Sunat Hospital, But better! Game ver: 1.0 [release]",
             "banner":"https://bobuxstation.github.io/Coal-Web/banners/suhosde.png",
-            "link":"https://turbowarp.org/742789914/embed"
+            "link":"https://turbowarp.org/742789914/embed",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/unavailibleforcoal.html"
+        },
+        {
+            "name":"OtnaHome",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed":"false",
+            "info":"An epik home simulator where you can eat apple and work all day. But beware of the debt boss! If you eat too much apple and your money goes under 0 the debt boss will come and you have to fight him! Game ver: 1.5 [The big update]",
+            "banner":"https://bobuxstation.github.io/Coal-Web/banners/otnahome.png",
+            "link":"https://turbowarp.org/624892272/embed",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/unavailibleforcoal.html"
+        },
+        {
+            "name":"Mouse Eater",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed":"false",
+            "info":"Dont get your mouse pointer eaten by the ball! Game ver: 1.0 [release]",
+            "banner":"https://bobuxstation.github.io/Coal-Web/banners/mouse%20eater.png",
+            "link":"https://turbowarp.org/624951488/embed",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/unavailibleforcoal.html"
+        },
+        {
+            "name":"Otna Friends",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed":"false",
+            "info":"A game where you can explore, fight, trade, survive and more with your friends! Game ver: 1.4 [Alpha]",
+            "banner":"https://bobuxstation.github.io/Coal-Web/banners/otnafriend.png",
+            "link":"https://turbowarp.org/479375786/embed",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/unavailibleforcoal.html"
+        },
+        {
+            "name":"Arkacraft SJE Edition",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed":"false",
+            "info":"Arkacraft Lite Version! Game ver: 1.0 [release]",
+            "banner":"https://bobuxstation.github.io/Coal-Web/banners/arkacraft.png",
+            "link":"https://turbowarp.org/386958939/embed",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/unavailibleforcoal.html"
+        },
+        {
+            "name":"Arkacraft Island",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed":"false",
+            "info":"Arkacraft Islands Releasing On 12 March 2022! Game ver: 1.0 [release]",
+            "banner":"https://bobuxstation.github.io/Coal-Web/banners/arkacraft%20island2.png",
+            "link":"https://turbowarp.org/624892297/embed",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/ArkacraftIsland"
         },
         {
             "name":"Tembak Farras",
@@ -88,7 +87,8 @@
             "feed":"false",
             "info":"You are an unfortunate soul that lives in a town planned to be attacked by farras inc and its homies, it seems you are the chosen one to save this town, will you be able to save this town? Game ver: 1.7 [First working update]",
             "banner":"https://cdn2.scratch.mit.edu/get_image/project/376157792_100x80.png",
-            "link":"https://forkphorus.github.io/app.html?id=376157792"
+            "link":"https://forkphorus.github.io/app.html?id=376157792",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/TembakFarras.html"
         },
         {
             "name":"ZKYracer",
@@ -98,7 +98,7 @@
             "info":"Race trough immersive, huge, challenging and epic tracks with your super cool car! Game ver: 1.0 [release]",
             "banner":"https://cdn2.scratch.mit.edu/get_image/project/511689976_100x80.png",
             "link":"https://forkphorus.github.io/app.html?id=511689976",
-            "download":"https://bobuxstation.github.io/Coal-Web/banners/ZKYRacer.html"
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/ZKYRacer.html"
         }
             ]
 }
