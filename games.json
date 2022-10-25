@@ -99,6 +99,15 @@
             "banner":"https://cdn2.scratch.mit.edu/get_image/project/511689976_100x80.png",
             "link":"https://forkphorus.github.io/app.html?id=511689976",
             "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/ZKYRacer.html"
+        },
+        {
+            "name":"Grief Street (BETA)",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed":"false",
+            "info":"Open World Game",
+            "banner":"https://bobuxstation.github.io/Coal-Web/GriefStreetPoster.png",
+            "link":"http://arkaria.42web.io/manualarkaismbetapreview/index.html"
         }
             ]
 }
