@@ -11,8 +11,8 @@ fetch("games.json")
                         btn.id = "game";
                         let banner = items.banner;
                         btn.style.backgroundImage = "url(" + banner + ")";
-                        btn.onclick = function () {
-                            window.location.replace(items.link);
+                        btn.onclick = () => {
+                            window.location.href = items.link;
                         };
                         gameList.appendChild(btn);
                     })
