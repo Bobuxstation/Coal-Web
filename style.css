@@ -106,12 +106,12 @@ li a:hover {
 	text-shadow: 2px 2px 10px #000000;
 	border: #1d1d1dab solid 2px;
 	transition: all 0.5s ease;
+	animation: skeleton-loading 1s linear infinite alternate;
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #game:hover {
 	box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	transition: all 0.5s ease;
-	cursor: pointer;
 }
 input {
 	margin-top: -3px;
@@ -123,4 +123,12 @@ input {
 	padding: 5px;
 	text-align: center;
 	width: 300px;
+}
+@keyframes skeleton-loading {
+  0% {
+    background-color: hsl(200, 20%, 80%);
+  }
+  100% {
+    background-color: hsl(200, 20%, 95%);
+  }
 }
