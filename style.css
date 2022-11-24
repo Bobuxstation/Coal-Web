@@ -16,6 +16,7 @@ header {
     justify-content: center;
 	width: 100%;
     filter: brightness(75%);
+	animation: skeleton-loading 1s linear infinite alternate;
 	text-shadow: -1px -1px 0 white,-1px 0px 0 white,-1px 1px 0 white,0px -1px 0 white,0px 0px 0 white,0px 1px 0 white,1px -1px 0 white,1px 0px 0 white,1px 1px 0 white;
 }
 section {
