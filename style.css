@@ -65,7 +65,7 @@ nav {
 	position: fixed;
 	width:100%;
 	z-index: 2;
-	backdrop-filter: blur(10px);
+	backdrop-filter: blur(60px);
 }
 
 li {
