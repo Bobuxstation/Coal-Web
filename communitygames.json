@@ -8,6 +8,26 @@
             "info":"A tool to submit your games to the community section of coal launcher",
             "banner":"assets/abpattern.png",
             "download":"https://bobuxstation.github.io/Coal-Web/gamesubmitter.html"
+        },
+        {
+            "name":"Tembak Farras",
+            "Version": 1,
+            "developer": "ZKYstudios/BDP",
+            "feed":"false",
+            "info":"You are an unfortunate soul that lives in a town planned to be attacked by farras inc and its homies, it seems you are the chosen one to save this town, will you be able to save this town? Game ver: 1.7 [First working update]",
+            "banner":"https://cdn2.scratch.mit.edu/get_image/project/376157792_100x80.png",
+            "link":"https://forkphorus.github.io/app.html?id=376157792",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/TembakFarras.html"
+        },
+        {
+            "name":"ZKYracer",
+            "Version": 1,
+            "developer": "ZKYstudios/BDP",
+            "feed":"false",
+            "info":"Race trough immersive, huge, challenging and epic tracks with your super cool car! Game ver: 1.0 [release]",
+            "banner":"https://cdn2.scratch.mit.edu/get_image/project/511689976_100x80.png",
+            "link":"https://forkphorus.github.io/app.html?id=511689976",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/ZKYRacer.html"
         }
             ]
 }
