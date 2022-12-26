@@ -7,7 +7,7 @@
             "feed":"false",
             "info":"A tool to submit your games to the community section of coal launcher",
             "banner":"assets/abpattern.png",
-            "download":"gamesubmitter.html"
+            "download":"https://bobuxstation.github.io/Coal-Web/gamesubmitter.html"
         }
             ]
 }
