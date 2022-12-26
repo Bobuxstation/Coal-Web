@@ -8,6 +8,15 @@
             "info":"A tool to submit your games to the community section of coal launcher",
             "banner":"assets/abpattern.png",
             "download":"https://bobuxstation.github.io/Coal-Web/gamesubmitter.html"
+        },
+        {
+            "name":"Submiting Your Game",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed":"false",
+            "info":"A tool to submit your games to the community section of coal launcher",
+            "banner":"assets/abpattern.png",
+            "download":"https://bobuxstation.github.io/Coal-Web/gamesubmitter.html"
         }
             ]
 }
