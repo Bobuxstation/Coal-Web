@@ -28,6 +28,16 @@
             "banner":"https://cdn2.scratch.mit.edu/get_image/project/511689976_100x80.png",
             "link":"https://forkphorus.github.io/app.html?id=511689976",
             "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/ZKYRacer.html"
+        },
+        {
+            "name":"whoinstallroblos",
+            "Version": 1,
+            "developer": "HorangStudios",
+            "feed":"false",
+            "info":"",
+            "banner":"http://arkaria.42web.io/HorangNextBots/Untitled.png",
+            "link":"http://arkaria.42web.io/HorangNextBots/",
+            "download":"https://www.dropbox.com/s/ml8twybyg33c5kx/coal.html?dl=1"
         }
             ]
 }
