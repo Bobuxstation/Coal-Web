@@ -3,10 +3,12 @@
 	margin: 0;
 	transition: ease all .25s;
 	user-select: none;
+	color: white;
 }
 body, html {
-	font-family: inter !important;
+	font-family: Inter !important;
 	height: 60%;
+	background-color: #000000;
 }
 header {
 	Background-image: url("Untitled.png");
@@ -16,8 +18,6 @@ header {
     align-items: center;
     justify-content: center;
 	width: 100%;
-    filter: brightness(75%);
-	text-shadow: 2px 2px 10px #fff;
 	animation: skeleton-loading 1s linear infinite alternate;
 	text-align: center;
 	font-weight: bold;
@@ -30,16 +30,14 @@ header button {
 	border: none;
 	font-weight: bold;
 	font-size: 17.5px;
-	text-shadow: 2px 2px 10px #fff;
-	padding: 12.5px
+	padding: 12.5px;
 }
 header button:hover {
-	background: lightgray;
+	background: #2d2d2d;
 	border-radius: 3px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 section {
-	background: white;
 	height: 1000px !important;
 	padding-top: 30px;
 	padding-left: 100px;
@@ -61,11 +59,11 @@ p {
 }
 
 nav {
-	background-color: #d3d3d3bf;
+	background-color: #000000dd;
 	position: fixed;
 	width:100%;
 	z-index: 2;
-	backdrop-filter: blur(60px);
+	backdrop-filter: blur(10px);
 }
 
 li {
@@ -83,7 +81,6 @@ ul {
 
 li a {
   display: block;
-  color: black;
   text-align: center;
   padding: 12.5px;
   text-decoration: none;
@@ -92,7 +89,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #d3d3d3bf;
+  background-color: #2d2d2d;
 }
 
 
@@ -115,20 +112,18 @@ li a:hover {
 	width: 250px !important;
 	height: 250px !important;
 	background-color: #1d1d1d;
-	border-radius: 3px;
-	padding:15px;
+	border-radius: 5px;
 	text-align:center;
 	float:left;
-	margin:10px;
-	border:none;
+	margin:15px;
 	background-size: cover;
-	color:white;
 	text-shadow: 2px 2px 10px #000000;
 	transition: all 0.5s ease;
 	animation: skeleton-loading 1s linear infinite alternate;
+	border: #5d5d5d solid 1px;
 }
 #game:hover {
-	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	box-shadow: 0 8px 16px 0 #5d5d5d, 0 6px 20px 0 #5d5d5d;
 	transition: all 0.5s ease;
 	cursor: pointer;
 }
@@ -151,3 +146,22 @@ input {
     background-color: hsl(200, 20%, 95%);
   }
 }
+#gamecard1 {
+	background-color: #000000dd;
+	height: 32.2%;
+	backdrop-filter: blur(10px);
+	overflow: hidden;
+	box-sizing: border-box;
+	padding: 10px;
+	text-align: left;
+	border-radius: 4px;
+  }
+  #gamecard2:hover {
+	opacity: 1;
+  }
+  #gamecard2 {
+	height: 68%;
+	padding: 5px;
+	box-sizing: border-box;
+	opacity: 0;
+  }
