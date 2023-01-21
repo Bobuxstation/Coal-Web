@@ -165,3 +165,8 @@ input {
 	box-sizing: border-box;
 	opacity: 0;
   }
+  .highlighted {
+	background: -webkit-linear-gradient(#ABDCFF, #0396FF);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  }
