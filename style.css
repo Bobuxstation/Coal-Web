@@ -4,6 +4,7 @@
 	transition: ease all .25s;
 	user-select: none;
 	color: white;
+	scroll-behavior: smooth;
 }
 body, html {
 	font-family: Inter !important;
