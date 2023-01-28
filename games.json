@@ -109,6 +109,17 @@
             "link":"https://www.dropbox.com/s/uo2ix8tal2yg839/CityCompleteEdition.exe?dl=1",
             "download":"https://www.dropbox.com/s/uo2ix8tal2yg839/CityCompleteEdition.exe?dl=1",
             "type" : "executable"
+        },
+        {
+            "name":"City 2069",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed":"false",
+            "info":"In a world that is super realistic, you would be waking up in a mansion that's surrounded by another mansion. The environment is beautiful with various trees. Now with everything enhanced",
+            "banner":"https://bobuxstation.github.io/Coal-Web/banners/citybanner.png",
+            "link":"https://www.dropbox.com/s/of1dp8miokj4lzo/City2069.exe?dl=1",
+            "download":"https://www.dropbox.com/s/of1dp8miokj4lzo/City2069.exe?dl=1",
+            "type" : "executable"
         }
             ]
 }
