@@ -120,6 +120,17 @@
             "link":"https://www.dropbox.com/s/of1dp8miokj4lzo/City2069.exe?dl=1",
             "download":"https://www.dropbox.com/s/of1dp8miokj4lzo/City2069.exe?dl=1",
             "type" : "executable"
+        },
+        {
+            "name":"Crown. Inc",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed":"false",
+            "info":"A game where you play as a CEO of a startup company that aims to grow by taking over other companies",
+            "banner":"https://bobuxstation.github.io/CrownInc/Untitled.png",
+            "link":"https://bobuxstation.github.io/CrownInc/",
+            "download":"https://bobuxstation.github.io/CrownInc/",
+            "type" : "link"
         }
             ]
 }
