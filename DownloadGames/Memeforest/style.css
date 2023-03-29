@@ -134,3 +134,11 @@ a {
 pre {
 	font-family: arial
 }
+
+#announcement {
+	padding: 15px;
+	background: url('https://github.com/Bobuxstation/Coal-Launcher/blob/main/assets/abpattern.png?raw=true');
+	background-size: cover;
+	background-position: center center;
+	color: white;
+}
