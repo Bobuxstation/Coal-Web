@@ -8,6 +8,24 @@
             "link":"https://horanghill.web.app",
             "icon":"fa-solid fa-mountain",
             "type" : "extension"
+        },
+        {
+            "name":"Brotify",
+            "developer": "ABSTUDIO",
+            "info":"Listen to music!",
+            "banner":"assets/abpattern.png",
+            "link":"https://bobuxstation.github.io/brotify/",
+            "icon":"fa-solid fa-headphones",
+            "type" : "extension"
+        },
+        {
+            "name":"ABFlix",
+            "developer": "ABSTUDIO",
+            "info":"Watch AB Originals!",
+            "banner":"assets/abpattern.png",
+            "link":"https://abflix-beta.web.app/",
+            "icon":"fa-solid fa-video",
+            "type" : "extension"
         }
             ]
 }
