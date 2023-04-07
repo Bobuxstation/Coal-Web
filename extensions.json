@@ -1,0 +1,13 @@
+{
+    "items":[
+        {
+            "name":"HorangHill",
+            "developer": "Horang Studios",
+            "info":"Easily play HorangHill on coal launcher!",
+            "banner":"https://horanghill.web.app/css/horanghillstartingplace.png",
+            "link":"https://horanghill.web.app",
+            "icon":"fa-solid fa-mountain",
+            "type" : "extension"
+        },
+            ]
+}
