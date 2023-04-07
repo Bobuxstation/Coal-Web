@@ -6,7 +6,7 @@
             "info":"Easily play HorangHill on coal launcher!",
             "banner":"https://horanghill.web.app/css/horanghillstartingplace.png",
             "link":"https://horanghill.web.app",
-            "icon":"fa-solid fa-h",
+            "icon":"fa-solid fa-square-h",
             "type" : "extension"
         },
         {
