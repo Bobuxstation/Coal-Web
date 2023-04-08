@@ -1,0 +1,21 @@
+:root {
+/* Basic UI */
+--mainBackground: #e2e7d6;
+--mainTextColor: #3d3d3d;
+--navigationBackground: #7f9d6f;
+--gameCardBackground: #ffffff;
+--defaultUIBorder: #7f9d6f;
+--gameCardTextShadow: #00000000;
+--mainBackgroundImage: url('../assets/forest-pattern.png');
+--mainFontFamily: Inter;
+
+/* Other UI Elements */
+--coalUIButton: #7f9d6f90;
+--coalUIButtonBorder: #7f9d6f90;
+
+--coalUIButtonHover: #7f9d6f;
+--coalUIButtonActive: #5c704e;
+--coalUIButtonBorderActive: #5c704e;
+
+--sidebarNavigationButtonHover: #5c704e;
+}

@@ -28,11 +28,43 @@
             "type" : "extension"
         },
         {
-            "name":"Default Dark Theme",
+            "name":"Desert Mirage",
             "developer": "ABSTUDIO",
-            "info":"The default dark theme for coal launcher",
+            "info":"This theme uses warm, sandy tones to create a desert-like atmosphere.",
             "banner":"assets/abpattern.png",
-            "link":"https://bobuxstation.github.io/Coal-Web/themes/dark.css",
+            "link":"https://bobuxstation.github.io/Coal-Web/themes/Desert Mirage.css",
+            "type" : "theme"
+        },
+        {
+            "name":"Forest Retreat",
+            "developer": "ABSTUDIO",
+            "info":"This theme uses deep, green tones to create a peaceful, forested atmosphere.",
+            "banner":"assets/abpattern.png",
+            "link":"https://bobuxstation.github.io/Coal-Web/themes/Forest Retreat.css",
+            "type" : "theme"
+        },
+        {
+            "name":"Ocean Breeze",
+            "developer": "ABSTUDIO",
+            "info":"This theme uses cool, blue-green tones to create a calming, oceanic feel.",
+            "banner":"assets/abpattern.png",
+            "link":"https://bobuxstation.github.io/Coal-Web/themes/Ocean Breeze.css",
+            "type" : "theme"
+        },
+        {
+            "name":"Soft And Pastel",
+            "developer": "ABSTUDIO",
+            "info":"For this theme, we will use soft and soothing pastel colors to create a gentle and inviting look.",
+            "banner":"assets/abpattern.png",
+            "link":"https://bobuxstation.github.io/Coal-Web/themes/Soft And Pastel.css",
+            "type" : "theme"
+        },
+        {
+            "name":"Warm And Cozy",
+            "developer": "ABSTUDIO",
+            "info":"For this theme, we will use warm and cozy colors to create a comfortable and inviting look.",
+            "banner":"assets/abpattern.png",
+            "link":"https://bobuxstation.github.io/Coal-Web/themes/Warm And Cozy.css",
             "type" : "theme"
         }
             ]

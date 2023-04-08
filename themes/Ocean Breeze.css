@@ -1,0 +1,21 @@
+:root {
+/* Basic UI */
+--mainBackground: #d1e7e6;
+--mainTextColor: #3d3d3d;
+--navigationBackground: #79bcb8;
+--gameCardBackground: #ffffff;
+--defaultUIBorder: #79bcb8;
+--gameCardTextShadow: #00000000;
+--mainBackgroundImage: url('../assets/wave-pattern.png');
+--mainFontFamily: Inter;
+
+/* Other UI Elements */
+--coalUIButton: #79bcb890;
+--coalUIButtonBorder: #79bcb890;
+
+--coalUIButtonHover: #79bcb8;
+--coalUIButtonActive: #4c7d79;
+--coalUIButtonBorderActive: #4c7d79;
+
+--sidebarNavigationButtonHover: #4c7d79;
+}

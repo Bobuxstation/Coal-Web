@@ -1,0 +1,21 @@
+:root {
+/* Basic UI */
+--mainBackground: #f2e4c1;
+--mainTextColor: #3d3d3d;
+--navigationBackground: #d4b18c;
+--gameCardBackground: #ffffff;
+--defaultUIBorder: #d4b18c;
+--gameCardTextShadow: #00000000;
+--mainBackgroundImage: url('../assets/desert-pattern.png');
+--mainFontFamily: Inter;
+
+/* Other UI Elements */
+--coalUIButton: #d4b18c90;
+--coalUIButtonBorder: #d4b18c90;
+
+--coalUIButtonHover: #d4b18c;
+--coalUIButtonActive: #8f6e4e;
+--coalUIButtonBorderActive: #8f6e4e;
+
+--sidebarNavigationButtonHover: #8f6e4e;
+}
