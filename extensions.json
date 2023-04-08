@@ -26,6 +26,14 @@
             "link":"https://abflix-beta.web.app/",
             "icon":"fa-solid fa-video",
             "type" : "extension"
+        },
+        {
+            "name":"Default Dark Theme",
+            "developer": "ABSTUDIO",
+            "info":"The default dark theme for coal launcher",
+            "banner":"assets/abpattern.png",
+            "link":"https://bobuxstation.github.io/Coal-Web/themes/dark.css",
+            "type" : "theme"
         }
             ]
 }
