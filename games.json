@@ -131,6 +131,17 @@
             "link":"https://bobuxstation.github.io/CrownInc/",
             "download":"https://bobuxstation.github.io/CrownInc/",
             "type" : "link"
+        },
+        {
+            "name":"Puasa Simulator",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed":"false",
+            "info":"A game where you can experience ibadah puasa even after Ramadhan.",
+            "banner":"https://img.freepik.com/premium-photo/arabian-cityscape-sunset-town-scenery-mosque-house-silhouettes-night-city-buildings-ramadan-kareem-panaromic-pixelart_250469-8930.jpg",
+            "link":"https://bobuxstation.github.io/Coal-Web/DownloadGames/Puasa Simulator.html",
+            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/Puasa Simulator.html",
+            "type" : "html5"
         }
             ]
 }
