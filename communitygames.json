@@ -17,7 +17,7 @@
             "feed":"false",
             "info":"You are an unfortunate soul that lives in a town planned to be attacked by farras inc and its homies, it seems you are the chosen one to save this town, will you be able to save this town? Game ver: 1.7 [First working update]",
             "banner":"https://cdn2.scratch.mit.edu/get_image/project/376157792_100x80.png",
-            "link":"https://forkphorus.github.io/app.html?id=376157792",
+            "preview":"https://forkphorus.github.io/app.html?id=376157792",
             "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/TembakFarras.html",
             "type" : "html5"
         },
@@ -28,7 +28,7 @@
             "feed":"false",
             "info":"Race trough immersive, huge, challenging and epic tracks with your super cool car! Game ver: 1.0 [release]",
             "banner":"https://cdn2.scratch.mit.edu/get_image/project/511689976_100x80.png",
-            "link":"https://forkphorus.github.io/app.html?id=511689976",
+            "preview":"https://forkphorus.github.io/app.html?id=511689976",
             "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/ZKYRacer.html",
             "type" : "html5"
         },
@@ -39,7 +39,7 @@
             "feed":"false",
             "info":"A nextbot game by horang studios.",
             "banner":"https://bobuxstation.github.io/Coal-Web/banners/whoinstallroblos.png",
-            "link":"http://arkaria.42web.io/HorangNextBots/",
+            "preview":"http://arkaria.42web.io/HorangNextBots/",
             "download":"http://arkaria.42web.io/HorangNextBots/",
             "type" : "link"
         },
@@ -50,7 +50,7 @@
             "feed":"false",
             "info":"Dont get your mouse pointer eaten by the ball, Now with more maps and skins! Game ver: 1.0 [release]",
             "banner":"https://bobuxstation.github.io/Coal-Web/banners/mouse%20eater.png",
-            "link":"https://turbowarp.org/781317231",
+            "preview":"https://turbowarp.org/781317231",
             "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/MouseEater2.html",
             "type" : "html5"
         }
