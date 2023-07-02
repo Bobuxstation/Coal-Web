@@ -13,7 +13,7 @@ fetch("stories.json")
                         let banner = items.banner;
                         btn.style.backgroundImage = "url(" + banner + ")";
                         btn.onclick = () => {
-                            window.location.href = items.link;
+                            window.location.href = items.preview;
                         };
                         gameList.appendChild(btn);
                     })
