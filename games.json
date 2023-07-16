@@ -125,7 +125,7 @@
             "name":"Crown. Inc",
             "Version": 1,
             "developer": "ABSTUDIO",
-            "feed":"false",
+            "feed":"https://bobuxstation.github.io/CrownInc/coalfeed.html",
             "info":"A game where you play as a CEO of a startup company that aims to grow by taking over other companies. Game ver: 1.0 [Release]",
             "banner":"https://bobuxstation.github.io/CrownInc/Untitled.png",
             "preview":"https://bobuxstation.github.io/CrownInc/",
