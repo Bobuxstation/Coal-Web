@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "name": "Submit your repository",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed": "false",
+            "info": "Submit your repository to be displayed in the community repositories",
+            "banner": "assets/abpattern.png",
+            "download": "https://bobuxstation.github.io/Coal-Web/gamesubmitter.html",
+            "type": "link"
+        },
+        {
+            "name": "Emupedia",
+            "developer": "Mobiz-Advanced-Technologies",
+            "info": "Emupedia games brought to Coal-Launcher",
+            "banner":"assets/abpattern.png",
+            "link":"https://mobiz-advanced-technologies.github.io/Mobiz-Advanced-Coal-Launcher-Repositories/emupedia/index.json",
+            "type" : "repository"
+        }
+    ]
+}

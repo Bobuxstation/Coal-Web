@@ -1,58 +1,22 @@
 {
-    "items":[
+    "items": [
         {
-            "name":"Submiting Your Game",
+            "name": "Community games has been discontinued.",
             "Version": 1,
             "developer": "ABSTUDIO",
-            "feed":"false",
-            "info":"A tool to submit your games to the community section of coal launcher",
+            "feed": "false",
+            "info": "All games in the community games repository has been moved to the Coal games repository.",
+            "banner": "assets/abpattern.png",
+            "download": "https://bobuxstation.github.io/Coal-Web/gamesubmitter.html",
+            "type": "link"
+        },
+        {
+            "name": "Community Repositories",
+            "developer": "ABSTUDIO",
+            "info": "All repositories submitted by the users.",
             "banner":"assets/abpattern.png",
-            "download":"https://bobuxstation.github.io/Coal-Web/gamesubmitter.html",
-            "type" : "html5"
-        },
-        {
-            "name":"Tembak Farras",
-            "Version": 1,
-            "developer": "ZKYstudios/BDP",
-            "feed":"false",
-            "info":"You are an unfortunate soul that lives in a town planned to be attacked by farras inc and its homies, it seems you are the chosen one to save this town, will you be able to save this town? Game ver: 1.7 [First working update]",
-            "banner":"https://cdn2.scratch.mit.edu/get_image/project/376157792_100x80.png",
-            "preview":"https://forkphorus.github.io/app.html?id=376157792",
-            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/TembakFarras.html",
-            "type" : "html5"
-        },
-        {
-            "name":"ZKYracer",
-            "Version": 1,
-            "developer": "ZKYstudios/BDP",
-            "feed":"false",
-            "info":"Race trough immersive, huge, challenging and epic tracks with your super cool car! Game ver: 1.0 [release]",
-            "banner":"https://cdn2.scratch.mit.edu/get_image/project/511689976_100x80.png",
-            "preview":"https://forkphorus.github.io/app.html?id=511689976",
-            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/ZKYRacer.html",
-            "type" : "html5"
-        },
-        {
-            "name":"whoinstallroblos",
-            "Version": 1,
-            "developer": "Horang Studios",
-            "feed":"false",
-            "info":"A nextbot game by horang studios.",
-            "banner":"https://bobuxstation.github.io/Coal-Web/banners/whoinstallroblos.png",
-            "preview":"http://arkaria.42web.io/HorangNextBots/",
-            "download":"http://arkaria.42web.io/HorangNextBots/",
-            "type" : "link"
-        },
-        {
-            "name":"Mouse Eater 2",
-            "Version": 1,
-            "developer": "🅱️ Studio",
-            "feed":"false",
-            "info":"Dont get your mouse pointer eaten by the ball, Now with more maps and skins! Game ver: 1.0 [release]",
-            "banner":"https://bobuxstation.github.io/Coal-Web/banners/mouse%20eater.png",
-            "preview":"https://turbowarp.org/781317231",
-            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/MouseEater2.html",
-            "type" : "html5"
+            "link":"https://bobuxstation.github.io/Coal-Web/repositories.json",
+            "type" : "repository"
         }
-            ]
+    ]
 }
