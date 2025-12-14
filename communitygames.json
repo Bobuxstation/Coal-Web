@@ -17,6 +17,72 @@
             "banner":"assets/abpattern.png",
             "link":"https://bobuxstation.github.io/Coal-Web/repositories.json",
             "type" : "repository"
+        },
+        {
+            "name": "OtnaHome",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed": "false",
+            "info": "An epik home simulator where you can eat apple and work all day. But beware of the debt boss! If you eat too much apple and your money goes under 0 the debt boss will come and you have to fight him! Game ver: 1.5 [The big update]",
+            "banner": "https://bobuxstation.github.io/Coal-Web/banners/otnahome.png",
+            "preview": "https://turbowarp.org/624892272/embed",
+            "download": "https://bobuxstation.github.io/Coal-Web/DownloadGames/OtnaHome.html",
+            "type": "html5"
+        },
+        {
+            "name": "Arkacraft SJE Edition",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed": "false",
+            "info": "A very bad demake of arkacraft, only with 2 blocks and extremely limited gameplay. Game ver: 1.0 [release]",
+            "banner": "https://bobuxstation.github.io/Coal-Web/banners/arkacraft.png",
+            "preview": "https://turbowarp.org/386958939/embed",
+            "download": "https://bobuxstation.github.io/Coal-Web/DownloadGames/ArkacraftSJEEdition.html",
+            "type": "html5"
+        },
+        {
+            "name": "Arkacraft Island",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed": "false",
+            "info": "Arkacraft Islands Releasing On 12 March 2022! Game ver: 1.0 [release]",
+            "banner": "https://bobuxstation.github.io/Coal-Web/banners/arkacraft%20island2.png",
+            "preview": "https://turbowarp.org/624892297/embed",
+            "download": "https://bobuxstation.github.io/Coal-Web/DownloadGames/ArkacraftIsland.html",
+            "type": "html5"
+        },
+        {
+            "name": "Tembak Farras",
+            "Version": 1,
+            "developer": "ZKYstudios/BDP",
+            "feed": "false",
+            "info": "You are an unfortunate soul that lives in a town planned to be attacked by farras inc and its homies, it seems you are the chosen one to save this town, will you be able to save this town? Game ver: 1.7 [First working update]",
+            "banner": "https://cdn2.scratch.mit.edu/get_image/project/376157792_100x80.png",
+            "preview": "https://forkphorus.github.io/app.html?id=376157792",
+            "download": "https://bobuxstation.github.io/Coal-Web/DownloadGames/TembakFarras.html",
+            "type": "html5"
+        },
+        {
+            "name": "ZKYracer",
+            "Version": 1,
+            "developer": "ZKYstudios/BDP",
+            "feed": "false",
+            "info": "Race trough immersive, huge, challenging and epic tracks with your super cool car! Game ver: 1.0 [release]",
+            "banner": "https://cdn2.scratch.mit.edu/get_image/project/511689976_100x80.png",
+            "preview": "https://forkphorus.github.io/app.html?id=511689976",
+            "download": "https://bobuxstation.github.io/Coal-Web/DownloadGames/ZKYRacer.html",
+            "type": "html5"
+        },
+        {
+            "name": "Otna Friends",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "feed": "false",
+            "info": "A game where you can explore, fight, trade, survive and more with your friends! Game ver: 1.4 [Alpha]",
+            "banner": "https://bobuxstation.github.io/Coal-Web/banners/otnafriend.png",
+            "preview": "https://turbowarp.org/479375786/embed",
+            "download": "https://bobuxstation.github.io/Coal-Web/DownloadGames/OtnaFriends.html",
+            "type": "html5"
         }
     ]
 }

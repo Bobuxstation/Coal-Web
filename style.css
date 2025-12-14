@@ -1,34 +1,37 @@
 * {
-	box-sizing:  border-box;
+	box-sizing: border-box;
 	margin: 0;
 	transition: ease all .25s;
 	user-select: none;
 	color: white;
 	scroll-behavior: smooth;
 }
-body, html {
+
+body,
+html {
 	font-family: Inter !important;
 	height: 60%;
 	background-color: #000000;
 }
+
 header {
-	Background-image: url("Untitled.png");
+	Background-image: url("banners/Untitled.png");
 	height: 100vh;
 	background-size: 100%;
-	display:flex;
-    align-items: center;
-    justify-content: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	width: 100%;
 	animation: skeleton-loading 1s linear infinite alternate;
 	text-align: center;
 	font-weight: bold;
 	opacity: 0.46;
-	
-	
 }
+
 header a {
 	text-decoration: none;
 }
+
 header button {
 	background: none;
 	border: none;
@@ -36,11 +39,13 @@ header button {
 	font-size: 17.5px;
 	padding: 12.5px;
 }
+
 header button:hover {
 	background: #2d2d2d;
 	border-radius: 3px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
 section {
 	height: 1000px !important;
 	padding-top: 30px;
@@ -65,38 +70,37 @@ p {
 nav {
 	background-color: #000000dd;
 	position: fixed;
-	width:100%;
+	width: 100%;
 	z-index: 2;
 	backdrop-filter: blur(10px);
 }
 
 li {
-  float: right;
+	float: right;
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 5px;
-  height: 55px;
-  box-sizing: border-box;
-  overflow: hidden;
-  display: flex;
-  justify-content: space-around;
-  background: linear-gradient(32deg, rgb(255, 27, 27), rgb(235, 255, 54), rgb(130, 252, 74),transparent);
+	list-style-type: none;
+	margin: 0;
+	padding: 5px;
+	height: 55px;
+	box-sizing: border-box;
+	overflow: hidden;
+	display: flex;
+	justify-content: space-around;
 }
 
 li a {
-  display: block;
-  text-align: center;
-  padding: 12.5px;
-  text-decoration: none;
-  border-radius: 3px;
-  font-weight: bold;
+	display: block;
+	text-align: center;
+	padding: 12.5px;
+	text-decoration: none;
+	border-radius: 3px;
+	font-weight: bold;
 }
 
 li a:hover {
-  background-color: #110c0c;
+	background-color: #110c0c;
 }
 
 
@@ -104,36 +108,41 @@ li a:hover {
 	height: 46px;
 	width: 46px;
 }
+
 .searchbox {
 	position: relative;
 	bottom: 3%;
 	border-radius: 3px;
 }
+
 .search {
 	padding: 12.5px;
 	float: right;
 	border-radius: 3px;
 	display: none;
 }
+
 #game {
 	width: 250px !important;
 	height: 250px !important;
 	background-color: #1d1d1d;
 	border-radius: 5px;
-	text-align:center;
-	float:left;
-	margin:15px;
+	text-align: center;
+	float: left;
+	margin: 15px;
 	background-size: cover;
 	text-shadow: 2px 2px 10px #000000;
 	transition: all 0.5s ease;
 	animation: skeleton-loading 1s linear infinite alternate;
 	border: #5d5d5d solid 1px;
 }
+
 #game:hover {
 	box-shadow: 0 8px 16px 0 #5d5d5d, 0 6px 20px 0 #5d5d5d;
 	transition: all 0.5s ease;
 	cursor: pointer;
 }
+
 input {
 	margin-top: -3px;
 	font-family: inter;
@@ -145,14 +154,17 @@ input {
 	text-align: center;
 	width: 300px;
 }
+
 @keyframes skeleton-loading {
-  0% {
-    background-color: hsl(200, 20%, 80%);
-  }
-  100% {
-    background-color: hsl(200, 20%, 95%);
-  }
+	0% {
+		background-color: hsl(200, 20%, 80%);
+	}
+
+	100% {
+		background-color: hsl(200, 20%, 95%);
+	}
 }
+
 #gamecard1 {
 	background-color: #000000dd;
 	height: 32.2%;
@@ -162,32 +174,35 @@ input {
 	padding: 10px;
 	text-align: left;
 	border-radius: 4px;
-  }
-  #gamecard2:hover {
+}
+
+#gamecard2:hover {
 	opacity: 1;
-  }
-  #gamecard2 {
+}
+
+#gamecard2 {
 	height: 68%;
 	padding: 5px;
 	box-sizing: border-box;
 	opacity: 0;
-  }
-  .highlighted {
+}
+
+.highlighted {
 	background: -webkit-linear-gradient(#ABDCFF, #0396FF);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-  }
-#main-text{
+}
+
+#main-text {
 	display: inline-block;
 	width: 100%;
 	white-space: nowrap;
 	overflow: hidden;
-	animation: typing 2s steps(10)
-	cursor .4s step-end infinite alternate;
-	
+	animation: typing 2s steps(10) cursor .4s step-end infinite alternate;
+
 }
 
-.scroll-down{
+.scroll-down {
 	position: absolute;
 	left: 50%;
 	bottom: 60px;
@@ -197,32 +212,64 @@ input {
 	z-index: 100;
 	text-decoration: none;
 	text-shadow: 0;
-  width: 33px;
-  height: 33px;
-  border-bottom: 2px solid rgb(93, 238, 26);
-  border-right: 2px solid red;
-  z-index: 9;
-  left: 50%;
-  -webkit-transform: translate(-50%, 0%) rotate(45deg);
-  -moz-transform: translate(-50%, 0%) rotate(45deg);
-  transform: translate(-50%, 0%) rotate(45deg);
+	width: 33px;
+	height: 33px;
+	border-bottom: 2px solid rgb(93, 238, 26);
+	border-right: 2px solid red;
+	z-index: 9;
+	left: 50%;
+	-webkit-transform: translate(-50%, 0%) rotate(45deg);
+	-moz-transform: translate(-50%, 0%) rotate(45deg);
+	transform: translate(-50%, 0%) rotate(45deg);
 	-webkit-animation: fade_move_down 4s ease-in-out infinite;
-	-moz-animation:    fade_move_down 4s ease-in-out infinite;
-	animation:         fade_move_down 4s ease-in-out infinite;
+	-moz-animation: fade_move_down 4s ease-in-out infinite;
+	animation: fade_move_down 4s ease-in-out infinite;
 }
 
 @-webkit-keyframes fade_move_down {
-	0%   { -webkit-transform:translate(0,-10px) rotate(45deg); opacity: 0;  }
-	50%  { opacity: 1;  }
-	100% { -webkit-transform:translate(0,10px) rotate(45deg); opacity: 0; }
-  }
-  @-moz-keyframes fade_move_down {
-	0%   { -moz-transform:translate(0,-10px) rotate(45deg); opacity: 0;  }
-	50%  { opacity: 1;  }
-	100% { -moz-transform:translate(0,10px) rotate(45deg); opacity: 0; }
-  }
-  @keyframes fade_move_down {
-	0%   { transform:translate(0,-10px) rotate(45deg); opacity: 0;  }
-	50%  { opacity: 1;  }
-	100% { transform:translate(0,10px) rotate(45deg); opacity: 0; }
-  }
+	0% {
+		-webkit-transform: translate(0, -10px) rotate(45deg);
+		opacity: 0;
+	}
+
+	50% {
+		opacity: 1;
+	}
+
+	100% {
+		-webkit-transform: translate(0, 10px) rotate(45deg);
+		opacity: 0;
+	}
+}
+
+@-moz-keyframes fade_move_down {
+	0% {
+		-moz-transform: translate(0, -10px) rotate(45deg);
+		opacity: 0;
+	}
+
+	50% {
+		opacity: 1;
+	}
+
+	100% {
+		-moz-transform: translate(0, 10px) rotate(45deg);
+		opacity: 0;
+	}
+}
+
+@keyframes fade_move_down {
+	0% {
+		transform: translate(0, -10px) rotate(45deg);
+		opacity: 0;
+	}
+
+	50% {
+		opacity: 1;
+	}
+
+	100% {
+		transform: translate(0, 10px) rotate(45deg);
+		opacity: 0;
+	}
+}
