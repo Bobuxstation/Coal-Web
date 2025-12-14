@@ -6,87 +6,82 @@
         color: white;
         font-family: Inter;
     }
-    input, button, textarea {
-        padding: 5px;
+
+    html,
+    body {
+        background: #1d1d1d;
+    }
+
+    input,
+    button,
+    textarea {
+        padding: 7.5px;
         margin: 5px;
-        border-radius: 2.5px;
+        border-radius: 4px;
         width: 250px;
         background: #4d4d4d90 !important;
-        color:white;
+        color: white;
         transition: all 0.5s ease;
         resize: vertical;
         box-sizing: border-box;
         border: #5d5d5d90 solid 1px !important;
         outline: none;
     }
-    input:hover, button:hover, textarea:hover {
-        padding: 5px;
-        margin: 5px;
-        border-radius: 2.5px;
-        width: 250px;
+
+    input:hover,
+    button:hover,
+    textarea:hover {
         background: #5d5d5d90 !important;
-        color:white;
         transition: all 0.5s ease;
-        resize: vertical;
-        box-sizing: border-box;
         border: #5d5d5d90 solid 1px !important;
     }
-    input:focus, button:focus, textarea:focus {
-        padding: 5px;
-        margin: 5px;
-        border-radius: 2.5px;
-        width: 250px;
+
+    input:focus,
+    button:focus,
+    textarea:focus {
         background: #5d5d5d90 !important;
-        color:white;
         transition: all 0.5s ease;
-        resize: vertical;
-        box-sizing: border-box;
         border: #5d5d5d90 solid 1px !important;
     }
-    input:active, button:active, textarea:active {
-        padding: 5px;
-        margin: 5px;
-        border-radius: 2.5px;
-        width: 250px;
+
+    input:active,
+    button:active,
+    textarea:active {
         background: #3d3d3d !important;
-        color:white;
         transition: all 0.5s ease;
-        resize: vertical;
-        box-sizing: border-box;
         border: #5d5d5d solid 1px !important;
     }
 </style>
 <div style="display: flex; text-align: center; align-items: center; justify-content: center; height: 100vh;">
-    
-    <form action="https://postmail.invotes.com/send"
-        method="post" id="email_form">
-
-        <h2>Submit a game</h2><br>
+    <form action="https://postmail.invotes.com/send" method="post" id="email_form">
+        <h2>Submit your repository</h2>
         <input type="text" name="extra_publisher email" placeholder="Email adress" /><br>
-        <input type="text" name="subject" placeholder="Game Name" /><br>
-        <input type="text" name="extra_publisher name" placeholder="Publisher name" /><br>
-        <input type="text" name="extra_banner art" placeholder="Banner Art" /><br>
-        <input type="text" name="extra_feed" placeholder="Game feed (optional)" /><br>
-        <input type="text" name="extra_url" placeholder="Game html file (single file only)" /><br>
-        <textarea name="text" placeholder="Game Description"></textarea><br>
-        <input type="hidden" name="access_token" value="srnt4hfiandivs3dyilimhi4" />
+        <input type="text" name="extra_publisher repository name" placeholder="Repository name" /><br>
+        <input type="text" name="extra_publisher repository url" placeholder="Repository JSON URL" /><br>
 
+        <textarea hidden name="text"
+            value="Coal-Launcher repository submission">Coal-Launcher repository submission</textarea>
+        <input type="hidden" name="subject" value="Coal-Launcher repository submission" />
+        <input type="hidden" name="access_token" value="srnt4hfiandivs3dyilimhi4" />
         <input type="hidden" name="success_url" value=".?message=Email+Successfully+Sent%21&isError=0" />
         <input type="hidden" name="error_url" value=".?message=Email+could+not+be+sent.&isError=1" />
-    
-        <input id="submit_form" type="submit" value="Send" /><br><br>
-        <p>Submitting a game will take a few days to <br> moderate. Read the <a href="https://github.com/Bobuxstation/Coal-Launcher/wiki" target="_blank" style="color: lightblue;">documentation</a> for more info.</p>
+
+        <input id="submit_form" type="submit" value="Submit" /><br>
+
+        <p>Submitting a repository will take a few days to <br> moderate. Read the <a
+                href="https://github.com/Bobuxstation/Coal-Launcher/wiki" target="_blank"
+                style="color: lightblue;">documentation</a> for more information.</p>
         <p>Powered by PostMail</p>
     </form>
 </div>
-     
+
 <script>
     var submitButton = document.getElementById("submit_form");
     var form = document.getElementById("email_form");
     form.addEventListener("submit", function (e) {
-        setTimeout(function() {
+        setTimeout(function () {
             submitButton.value = "Sending...";
             submitButton.disabled = true;
         }, 1);
     });
-</script> 
+</script>
