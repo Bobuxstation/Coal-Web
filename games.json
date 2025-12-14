@@ -12,7 +12,7 @@
             "type" : "html5"
         },
         {
-            "name":"Five Nights At Sunat Hospital Original",
+            "name":"Five Nights At Sunat Hospital",
             "Version": 1,
             "developer": "ABSTUDIO",
             "feed":"false",
@@ -20,17 +20,6 @@
             "banner":"https://bobuxstation.github.io/Coal-Web/banners/sunathospital.jpeg",
             "preview":"https://turbowarp.org/624949249/embed",
             "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/SunatHospital.html",
-            "type" : "html5"
-        },
-        {
-            "name":"Five Nights At Sunat Hospital Definitive Edition",
-            "Version": 1,
-            "developer": "ABSTUDIO",
-            "feed":"false",
-            "info":"Sunat Hospital, But better! Game ver: 1.0 [release]",
-            "banner":"https://bobuxstation.github.io/Coal-Web/banners/suhosde.png",
-            "preview":"https://turbowarp.org/742789914/embed",
-            "download":"https://bobuxstation.github.io/Coal-Web/DownloadGames/SunatHospitalDefinitiveEdition.html",
             "type" : "html5"
         },
         {
@@ -108,6 +97,16 @@
             "banner":"https://bobuxstation.github.io/CrownInc/Untitled.png",
             "preview":"https://bobuxstation.github.io/CrownInc/",
             "download":"https://bobuxstation.github.io/CrownInc/",
+            "type" : "link"
+        },
+        {
+            "name":"Nations Inc",
+            "Version": 1,
+            "developer": "ABSTUDIO",
+            "info":"Expand your empire of factories and resources by conquering other nations in a world that spans infinitely. Successor to Crown Inc. Game ver: 1.0 [Release]",
+            "banner":"https://bobuxstation.github.io/nations-inc/content/screenshot.png",
+            "preview":"https://bobuxstation.github.io/nations-inc",
+            "download":"https://bobuxstation.github.io/nations-inc",
             "type" : "link"
         },
         {
